@@ -4,6 +4,10 @@ A single-page static website for **Hair Day**, a fictional boutique hair salon s
 
 This project was developed as part of the **Meta Front-End Developer Professional Certificate** coursework and demonstrates fundamental frontend development using HTML5 and CSS3.
 
+## Live Demo
+
+🌐 [View Hair Day Website](https://revantachoudhary.github.io/hair-day-website/)
+
 ## Overview
 
 The website presents Hair Day's services through a visually styled single-page layout with custom branding, navigation, imagery, typography, and interactive hover effects.
